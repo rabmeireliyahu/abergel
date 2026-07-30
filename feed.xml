@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב ישראל אברג'ל</title>
-    <description>שיעורים מהרב ישראל אברג'ל - כל הטוב שבתורת החסידות על פי הרב יורם אברג'ל זי"ע</description>
+    <description>שיעורי פרשת שבוע וחיזוק מפי הרב ישראל אברג'ל שליט"א. אמונה וביטחון, מוסר ותיקון המידות, מועדי ישראל ועבודת ה' בשמחה - שיעורים מלאים - אוצר התורה.</description>
+    <itunes:summary>שיעורי פרשת שבוע וחיזוק מפי הרב ישראל אברג'ל שליט"א. אמונה וביטחון, מוסר ותיקון המידות, מועדי ישראל ועבודת ה' בשמחה - שיעורים מלאים - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/abergel</link>
     <language>he</language>
     <itunes:author>הרב ישראל אברג'ל שליט"א</itunes:author>
